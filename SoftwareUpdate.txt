@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
